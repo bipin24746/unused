@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626498059244",
+    "project_id": "chatapp-ff2b4",
+    "storage_bucket": "chatapp-ff2b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626498059244:android:afcc4a61cb7a7ff4491ec9",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKh9gFXlBumMVa0EOcm5DLyf0QLIJDag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
